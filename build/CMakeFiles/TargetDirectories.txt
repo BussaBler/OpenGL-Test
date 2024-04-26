@@ -1,0 +1,3 @@
+C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build/CMakeFiles/opengl.dir
+C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build/CMakeFiles/edit_cache.dir
+C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build/CMakeFiles/rebuild_cache.dir

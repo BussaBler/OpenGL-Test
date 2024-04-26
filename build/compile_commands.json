@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/opengl.dir/includes_CXX.rsp -g -o CMakeFiles\\opengl.dir\\src\\main.cpp.obj -c \"C:\\Users\\Bussab\\Documents\\USP\\Codes C++\\OpenGL\\src\\main.cpp\"",
+  "file": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/src/main.cpp",
+  "output": "CMakeFiles/opengl.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DGLFW_DLL @CMakeFiles/opengl.dir/includes_C.rsp -g -o CMakeFiles\\opengl.dir\\src\\glad.c.obj -c \"C:\\Users\\Bussab\\Documents\\USP\\Codes C++\\OpenGL\\src\\glad.c\"",
+  "file": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/src/glad.c",
+  "output": "CMakeFiles/opengl.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/opengl.dir/includes_CXX.rsp -g -o CMakeFiles\\opengl.dir\\src\\triangle_mesh.cpp.obj -c \"C:\\Users\\Bussab\\Documents\\USP\\Codes C++\\OpenGL\\src\\triangle_mesh.cpp\"",
+  "file": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/src/triangle_mesh.cpp",
+  "output": "CMakeFiles/opengl.dir/src/triangle_mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/opengl.dir/includes_CXX.rsp -g -o CMakeFiles\\opengl.dir\\src\\config.cpp.obj -c \"C:\\Users\\Bussab\\Documents\\USP\\Codes C++\\OpenGL\\src\\config.cpp\"",
+  "file": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/src/config.cpp",
+  "output": "CMakeFiles/opengl.dir/src/config.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/opengl.dir/includes_CXX.rsp -g -o CMakeFiles\\opengl.dir\\src\\material.cpp.obj -c \"C:\\Users\\Bussab\\Documents\\USP\\Codes C++\\OpenGL\\src\\material.cpp\"",
+  "file": "C:/Users/Bussab/Documents/USP/Codes C++/OpenGL/src/material.cpp",
+  "output": "CMakeFiles/opengl.dir/src/material.cpp.obj"
+}
+]
